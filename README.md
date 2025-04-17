@@ -1,2 +1,3 @@
-# commit-canvas
-A fun project that uses automated Git commits to draw pixel art and text on the GitHub contribution graph.
+# 🟩 commit-canvas
+
+**commit-canvas** is a creative tool that draws custom ASCII text or logo designs directly onto your GitHub contribution graph using time-stamped commits.
